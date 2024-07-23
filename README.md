@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Josue.
-- 👀 I’m interested in Computers and technology.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter Proyects.
+- 👀 I’m interested in Computers , programming and technology.
+- 🍎 Apple pruducts and computer parts are the reason of me not having money ☹️.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on web Proyects.
 - 📫 How to reach me josgar_14@hotmail.com
 
 <!---
